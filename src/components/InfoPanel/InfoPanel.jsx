@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Container, Row, Col, Image } from "react-bootstrap";
 import businessman from "../../assets/businessman.jpg";
-import "./InfoPanel.css";
+import "./Infopanel.css";
 
 import assts from "../../assets/assts.jpeg";
 import liab from "../../assets/liab.jpeg";
